@@ -70,7 +70,7 @@
     },
     {
       "id": 2,
-      "ativo: true,
+      "ativo: "true",
       "ano": 2024,
       "nome": "CIDADE CONFERENCE",
       "descricao": "Abertura da CIDADE CONFERENCE",
