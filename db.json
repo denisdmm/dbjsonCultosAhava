@@ -2,7 +2,7 @@
 "cultos": [
     {
       "id": 1,
-      "ativo": true,
+      "ativo": "true",
       "ano": 2024,
       "nome": "Abertura Pentecostes",
       "descricao": "Mensagem: O Poder Sobrenatural do Jejum",
