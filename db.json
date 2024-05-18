@@ -2,6 +2,7 @@
 "cultos": [
     {
       "id": 1,
+      "ativo": true,
       "ano": 2024,
       "nome": "Abertura Pentecostes",
       "descricao": "Mensagem: O Poder Sobrenatural do Jejum",
@@ -69,6 +70,7 @@
     },
     {
       "id": 2,
+      "ativo: true,
       "ano": 2024,
       "nome": "CIDADE CONFERENCE",
       "descricao": "Abertura da CIDADE CONFERENCE",
