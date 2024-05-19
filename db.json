@@ -151,6 +151,28 @@
           "status": "PREPARANDO ARQUIVOS"
         }
       ]
+    },
+    ,
+    {
+      "id": 4,
+      "ativo":true,
+      "ano": 2024,
+      "nome": " JAY STROTHER",
+      "descricao": "MENSAGEM PR JAY STROTHER",
+      "localEvento": "IC Colina",
+      "periodoEvento": "02 de Junho",
+      "mesReferencia": "Junho",
+      "datasEvento": "02",
+      "musicas": [
+        {
+          "numeroCena": 1,
+          "cena": "",
+          "nomeMusica": "",
+          "linkMusica": "#",
+          "anotacao": "",
+          "status": "PREPARANDO ARQUIVOS"
+        }
+      ]
     }
   ]
 }
