@@ -71,7 +71,7 @@
     },
     {
       "id": 2,
-      "ativo":true,
+      "ativo":false,
       "ano": 2024,
       "nome": "CIDADE CONFERENCE",
       "descricao": "Abertura da CIDADE CONFERENCE",
@@ -140,7 +140,7 @@
     },
     {
       "id": 3,
-      "ativo":true,
+      "ativo":false,
       "ano": 2024,
       "nome": "AUTO IN CONCERT",
       "descricao": "Auto de Páscoa IN CONCERT",
@@ -217,7 +217,7 @@
     },
     {
       "id": 4,
-      "ativo":true,
+      "ativo":false,
       "ano": 2024,
       "nome": "JAY STROTHER",
       "descricao": "MENSAGEM PR JAY STROTHER",
